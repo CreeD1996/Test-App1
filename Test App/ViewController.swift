@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("Testit123456")
+        print("Test der Compare-Funktion")
     }
 
 
